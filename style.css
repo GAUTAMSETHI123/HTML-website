@@ -1,0 +1,24 @@
+.object-header{
+    background-color: grey;
+    padding: 6px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 26px;
+    border-radius:50px;
+    margin-bottom: 16px;
+}
+
+#object-about{
+    /* border: 2px solid black; */
+    text-align: justify;
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+td{
+    font-size: 18px;
+    font-weight:700;
+}
